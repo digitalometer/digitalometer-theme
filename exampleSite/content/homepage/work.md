@@ -6,5 +6,6 @@ button: 'Our Work'
 buttonLink: 'work'
 ---
 
-Wer helfen Ihnen Ihr Unternehmen zu digitalisiern.
-Massgeschneidert, effizient und einfach.
+Wer helfen Ihnen für Ihr Unternehmen massgeschneiderte, innovative 
+Digitalisierungslösungen zu finden.
+Effizient, kostengünstig und an ihrer Firmenkultur angepasst.
